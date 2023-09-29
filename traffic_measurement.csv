@@ -1,10 +1,2 @@
-Vehicle Type/Size, Vehicle Color, Vehicle Movement Direction, Vehicle Speed (km/h)
-car,blue,down,45.51342222425673
-car,black,down,47.767976125081375
-car,black,down,n.a.
-car,green,up,n.a.
-car,black,up,n.a.
-car,green,down,n.a.
-car,green,up,n.a.
-car,green,up,n.a.
-car,black,down,n.a.
+Vehicle Type/Size, Vehicle Color, Vehicle Movement Direction, Vehicle Speed (km/h)
+car,black,down,23.574345906575523

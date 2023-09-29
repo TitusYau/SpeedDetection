@@ -41,8 +41,8 @@ with open('traffic_measurement.csv', 'w') as f:
     writer.writerows([csv_line.split(',')])
 
 # input video
-source_video = 'IEEE vid0-1.mp4'
-cap = cv2.VideoCapture(0)
+source_video = 'IEEE vid-6 (20).mp4'
+cap = cv2.VideoCapture(source_video)
 
 
 # Variables
